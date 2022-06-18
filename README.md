@@ -1,7 +1,5 @@
-# ayannagori.netlify.app
+# My old portfolio
 
-Hello there I am a front-end web developer
+Visit new react portfolio at https://ayannagori.netlify.app/
 
-This is my portfolio website you can check about me and my experience and my projects in my site
-
-wanna hire me go in my site > contactpage and send me a message
+NOTE -- this is my old portfolio made from static html,css and a bit of javascript
